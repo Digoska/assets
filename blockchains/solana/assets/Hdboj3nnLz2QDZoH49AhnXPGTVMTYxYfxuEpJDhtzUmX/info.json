@@ -1,0 +1,25 @@
+{
+    "name": "Crypto Lovers",
+    "symbol": "CLOVERS",
+    "type": "SPL",
+    "decimals": 6,
+    "description": "Crypto Lovers is more than just a cryptocurrency — it’s the new central hub for crypto enthusiasts worldwide. Our vision is to create a unique platform that combines news, gossip, and cartoons, featuring the first-ever crypto magazine starting in English and Chinese.",
+    "website": "https://cryptolovers.eu",
+    "explorer": "https://solscan.io/token/Hdboj3nnLz2QDZoH49AhnXPGTVMTYxYfxuEpJDhtzUmX",
+    "status": "active",
+    "id": "Hdboj3nnLz2QDZoH49AhnXPGTVMTYxYfxuEpJDhtzUmX",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/xCryptoLovers"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/cryptoxxlovers"
+      },
+      {
+        "name": "website",
+        "url": "https://cryptolovers.eu"
+      }
+    ]
+  }
